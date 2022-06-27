@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9a3f7fd-1d4c-4dfa-ab5d-e5a482e8513d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Aula1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/ED_1_2021_IBAMA_ABERTURA.PDF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/Legislação/20180808_DEC_Decreto6514.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/Legislação/PORTARIA Nº 2.542, DE 23 DE OUTUBRO DE 2020 - PORTARIA Nº 2.542, DE 23 DE OUTUBRO DE 2020 - DOU - Imprensa Nacional.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/Legislação/lei-6938-31-agosto-1981-366135-normaatualizada-pl.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/Legislação/lei-7735-22-fevereiro-1989-365694-normaatualizada-pl.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/atividade.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/edital editado.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Concurso IBAMA/estudos.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/StudentApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/adapter/ItemAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/db/StudentDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/db/StudentDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/db/repository/LocalRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/di/AppModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/di/DbName.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/di/ViewModelFactoryModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/di/ViewModelKey.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/entity/Student.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/base/BaseActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/base/BaseFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/base/BaseViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/detail/DetailActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/detail/DetailViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/main/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/features/main/MainActivityViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/java/com/elina/app/crudkotlin/vmfactory/StudentViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/drawable/ic_delete_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/drawable/ic_edit_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/layout/activity_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/layout/content_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/layout/input_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/layout/student_item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/menu/menu_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/base/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/base/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/base/src/main/java/com/elina/app/base/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud com Kotlin/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Back-end para aplicação Mobile/GitHub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Back-end para aplicação Mobile/GitHub.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Multiplataforma com React Native/codigo App.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Multiplataforma com React Native/codigo App.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Multiplataforma com React Native/passos pra projeto react native.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Multiplataforma com React Native/passos pra projeto react native.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Multiplataforma com React Native/vjv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Elina/Pós - Desenvolvimento Mobile/Desenvolvimento Multiplataforma com React Native/vjv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pessoa 1 - Chrome.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atividade 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/__tests__/App-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/_BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/debug/java/com/calculadora_imc/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/java/com/calculadora_imc/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/java/com/calculadora_imc/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/assets/imagem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc.xcodeproj/xcshareddata/xcschemes/calculadora_imc.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imc/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imcTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/ios/calculadora_imcTests/calculadora_imcTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculadora_imc/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/__tests__/App-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/_BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/debug/java/com/calculo_imc/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/java/com/calculo_imc/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/java/com/calculo_imc/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc.xcodeproj/xcshareddata/xcschemes/calculo_imc.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imc/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imcTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/ios/calculo_imcTests/calculo_imcTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calculo_imc/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exPhyton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logo - Atalho.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logo.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mudanças.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../notas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocorrencias.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocorrencias.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/__tests__/App-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/_BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/debug/java/com/projeto_react/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/java/com/projeto_react/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/java/com/projeto_react/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react.xcodeproj/xcshareddata/xcschemes/projeto_react.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_react/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_reactTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/ios/projeto_reactTests/projeto_reactTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto_react/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/kotlin/com/elina/sigla_paises_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/service/requisicao.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/view/ajuda.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/view/mensagem.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/view/menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/view/my_app.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/view/paises_dados.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/lib/view/paises_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sigla_paises_app/sigla_paises_app/test/widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B8MF4jvWLbBzLO9HZJua4dIQEU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../padroes-projeto-spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elina.LAPTOP-LRB8QDID\Desktop\DIO\lab-padroes-projeto-spring-main\padroes-projeto-spring\src\test\java\one\digitalinnovation" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a3f7fd-1d4c-4dfa-ab5d-e5a482e8513d" name="Changes" comment="" />
+      <created>1656283156282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656283156282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
